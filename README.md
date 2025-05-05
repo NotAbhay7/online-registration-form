@@ -1,3 +1,8 @@
+**View Form **
+
+https://notabhay7.github.io/online-registration-form/
+
+
 # 📝 Online Registration Form
 
 This is a responsive **User Registration Form** built with HTML, CSS, JavaScript, and jQuery. It includes real-time validation for various input fields like name, email, NIC, mobile number, password, and more. The form ensures data integrity and provides instant feedback to users.
